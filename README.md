@@ -11,7 +11,7 @@ J'ai voulu refait le célèbre jeux quipoquiz à ma manière. Avec plein de thè
 
 - [x] plein de thème et de questions 
 - [x] vérification de la réponse, si c'est vrai on explique pourquoi et si c'est faux on explique aussi pourquoi
-- [ ] un button suivant pour passer à la question suivante
+- [x] un button suivant pour passer à la question suivante
 
 
 ## 🚀 Installation
