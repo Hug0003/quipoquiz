@@ -1,6 +1,6 @@
 # QuipoQuiz
 ## 📄 Description
-J'ai voulu refait le célèbre jeux quipoquiz à ma manière. Avec plein de thème et de questions avec python (tkinter) pour comprendre et m'amelioré sur tkinter 
+J'ai voulu refaire le célèbre jeux quipoquiz à ma manière. Avec plein de thème et de questions avec python (tkinter) pour comprendre et m'ameliorer sur tkinter 
 
 ## 🎥 Démo Visuelle
 
